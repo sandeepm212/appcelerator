@@ -1,18 +1,20 @@
-[{
-"name": "Product1",
-"price": "200"
-},
+[
 {
-"name": "Product2",
-"price": "100"
-},{
-"name": "Product3",
-"price": "250"
-},
-{
-"name": "Product4",
-"price": "100"
-},{
-"name": "Product5",
-"price": "250"
-}]
+	        mass : {text : "1.00794"}, 
+	        name : {text : "Hydrogen"},
+	        number : { text : "1"},
+	        symbol : { color : "#090", text : "H"}
+	    },
+	    {
+	        mass : {text : "4.002602"}, 
+	        name : {text : "Helium"},
+	        number : { text : "2"},
+	        symbol : { color : "#090", text : "He"}
+	    },
+	    {
+	        mass : {text : "6.941"}, 
+	        name : {text : "Lithium"},
+	        number : { text : "3"},
+	        symbol : { color : "#090", text : "Li"}
+	    }
+]
