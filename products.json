@@ -3,7 +3,7 @@
 	        "mass" : {"text" : "1.00794"}, 
 	        "name" : {"text" : "Hydrogen"},
 	        "number" : { "text" : "1"},
-	        "symbol" : { "color" : "#090", "text" : "H"}
+	        "symbol" : { "color" : "#090", "text" : "HH"}
 	    },
 	    {
 	        "mass" : {"text" : "4.002602"}, 
